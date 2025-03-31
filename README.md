@@ -46,7 +46,7 @@ Sistema inteligente para análise e conversação com documentos PDF utilizando 
 
 1. **Clonar repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/ai-chat-system.git
+   git clone https://github.com/AelcioJozias/ai_chat_system.git
    cd ai-chat-system
    
 2. **Clonar repositório**:
@@ -62,7 +62,8 @@ Sistema inteligente para análise e conversação com documentos PDF utilizando 
    pip install -r requirements.txt
    
 4. Configurar variáveis de ambiente:
-   Crie um arquivo .env com: GOOGLE_API_KEY=sua_chave_aqui
+   Já deixei o arquivo .env criado no local exato pra rodar o projeto </br>
+   Cole a sua no seguinte formato: GOOGLE_API_KEY=" SUA CHAVE VAI AQUI "
    
 5. ### 🖥️Executando o Sistema:
    #### streamlit run app.py

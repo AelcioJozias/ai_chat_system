@@ -1,0 +1,46 @@
+/.venv/
+/data/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+.Python
+dist/
+build/
+*.egg-info/
+
+# Logs and databases
+*.log
+db.sqlite3
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configuração do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dependências do Poetry
+poetry.lock
+
+# Arquivos temporários
+tmp/
+*.bak
+*.orig
+
+# Configuração de Docker
+docker-compose.override.yml
